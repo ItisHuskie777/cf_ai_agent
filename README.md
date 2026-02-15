@@ -1,2 +1,2 @@
 # cf_ai_agent
-Optional Assignment
+Cloudflare optional AI assignment project
